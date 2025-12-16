@@ -1,7 +1,5 @@
 # CODSOFT
 Hello Everyone!! 
+xyz
 
-
-
-This Side Sumit Kumar Agrahari.
 
